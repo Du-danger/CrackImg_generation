@@ -1,0 +1,4 @@
+__pycache__
+crack/img/*.jpg
+crack/label/*.xml
+test.py
